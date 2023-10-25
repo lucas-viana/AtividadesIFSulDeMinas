@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\AulaIF\AtividadeTabela\AtividadeTabela\bin\Debug\AtividadeTabela.exe.config
+C:\Users\lucas\source\repos\AulaIF\AtividadeTabela\AtividadeTabela\bin\Debug\AtividadeTabela.exe
+C:\Users\lucas\source\repos\AulaIF\AtividadeTabela\AtividadeTabela\bin\Debug\AtividadeTabela.pdb
+C:\Users\lucas\source\repos\AulaIF\AtividadeTabela\AtividadeTabela\obj\Debug\AtividadeTabela.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\AulaIF\AtividadeTabela\AtividadeTabela\obj\Debug\AtividadeTabela.Form1.resources
+C:\Users\lucas\source\repos\AulaIF\AtividadeTabela\AtividadeTabela\obj\Debug\AtividadeTabela.Properties.Resources.resources
+C:\Users\lucas\source\repos\AulaIF\AtividadeTabela\AtividadeTabela\obj\Debug\AtividadeTabela.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\AulaIF\AtividadeTabela\AtividadeTabela\obj\Debug\AtividadeTabela.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\AulaIF\AtividadeTabela\AtividadeTabela\obj\Debug\AtividadeTabela.exe
+C:\Users\lucas\source\repos\AulaIF\AtividadeTabela\AtividadeTabela\obj\Debug\AtividadeTabela.pdb
